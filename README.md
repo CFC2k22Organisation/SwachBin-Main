@@ -89,7 +89,7 @@ We went back to the drawing board; did research on what "gains" we can provide t
 2. AI driven middle ware
 3. IoT and SQL infused backend
 ## Project roadmap
-
+![Roadmap](./images/swachBin_Roadmap.jpg)
 
 ## Built with
 ![Techonology](./images/tech_logos.jpg)
