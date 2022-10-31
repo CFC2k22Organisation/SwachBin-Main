@@ -16,7 +16,7 @@
 SwachBIN (inspired from Hindi - swach indicates cleanliness) - a smart AI powered trash bin that solves the waste / trash segregation menace at the source in a seamless way and at the same time accomplishes the task at ultra-low cost and by enabling sustainability.
 
 ### What's the problem?
-Due to rapid urbanisation, the countries like India are facing a massive waste management challenge. In India alone over 377 million urban people live in 7,935 towns and cities and generate 62 million tonnes of municipal solid waste per annum but only 43 million tonnes (MT) of the waste is collected, 11.9 MT is treated and 31 MT is dumped in landfill sites[(source)](https://www.downtoearth.org.in/blog/waste/india-s-challenges-in-waste-management-56753). Solid Waste Management (SWM) is one among the basic essential services provided by municipal authorities in the country to keep urban centres clean. However, muncipal bodies are increasingly getting overwhelmed and almost all municipal authorities deposit solid waste at a dumpyard within or outside the city haphazardly. 
+Due to rapid urbanisation, the countries like India are facing a massive waste management challenge. In India alone over 377 million urban people live in 7,935 towns and cities and generate 62 million tonnes of municipal solid waste per annum but only 43 million tonnes (MT) of the waste is collected, 11.9 MT is treated and 31 MT is dumped in landfill sites[(source)](https://www.downtoearth.org.in/blog/waste/india-s-challenges-in-waste-management-56753). Solid Waste Management (SWM) is one among the basic essential services provided by municipal authorities in the country to keep urban centres clean. However, municipal bodies are increasingly getting overwhelmed and almost all municipal authorities deposit solid waste at a dumpyard within or outside the city haphazardly. 
 
 One of the key reasons being "segregation at source" is not happening properly. One might ask how about enforcing the law. For instance, in India, various legislations exists for regulating the manner of disposal and dealing with generated waste under the umbrella law of Environment Protection Act, 1986 (EPA) but still landfills are getting dumped with mixed waste a lot leading to pollution.
 
@@ -24,12 +24,15 @@ No matter how strict the laws are there until unless the citizens across the soc
 
 In simple words, the problem that we have in our hand is - "Not able to segregate waste at source" 
 ### The idea
-The idea is to build a smart trash bin which identifies and detect the trash and perform classification based on AI machine learning algorithms. 
-It automatically detect the waste as either recycle or non recycle trash and open the trash can accordingly. It is installed on Raspberry PI and is connected to a camera that take a picture of the trash. With the help of state of the art AI and ML algorithms, the system predicts the trash and classifies the image accordingly, based on the result, an electrical signal is given to the servo motor to rotate which in turn opens the trashcan lid either to left or right depending on the results of recyclable or non recyclable.
+The idea is to build a smart trash bin which identifies and detect the trash and perform classification based on AI algorithm.
+The bin will automatically detect the trash as either recycle or non recycle trash and open the trash can accordingly. It is equipped with Raspberry PI and is connected to a camera that take a picture of the trash. With the help of state of the art AI and ML algorithms, the system predicts the trash and classifies the image accordingly, based on the result, an electrical signal is given to the servo motor to rotate which in turn opens the trashcan lid either to left or right depending on the results of recyclable or non recyclable.
 
-Through our solution, we can automate that process with this smart bin which will prove more efficient than current manual processes. There are currently no products like this in existence that we know of -- there are only standard automated recycling machines, which do not come equipped with an AI solution to classify what goes where, so we think it would be a valuable product to create in order to improve efficiency in our society's waste management system.
+Through our solution, we are automating the segregation process which is more efficient than the manual processes. Per our research, currently there exists no products like this in existence that we know of -- there are only standard automated recycling machines, which do not come equipped with an AI solution to classify what goes where, so we think it would be a valuable product to create in order to improve efficiency in our society's waste management system.
 
-Moreover it is affordable due to it's ultra low cost and when manufactured and deployed in enmasse the cost will further come down. 
+Once the waste is segregated within the bin, the level of trash is being monitored in real time by an ultrasonic sensor. Once the 'set' threshold reaches, the ultrasonic sensor will notify the municipal corporation so that they can plan a visit to pick the trash.
+This way, we are reducing the carbon emissions to a greater extent and promoting *sustainability*
+
+Above all, it is affordable due to it's ultra low cost and when manufactured and deployed in enmasse the cost will further come down.
 
 ### How can technology help?
 Due to the infusion of AI / ML and advanced HW - it is possible to detect the type of waste source with high accuracy and also through the use of NLP (Text to Speech) we can educate the user as well on the type of waste they are disposing. 
