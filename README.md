@@ -35,14 +35,14 @@ This way, we are reducing the carbon emissions to a greater extent and promoting
 Above all, it is affordable due to it's ultra low cost and when manufactured and deployed in enmasse the cost will further come down.
 
 ### How can technology help?
-Due to the infusion of AI / ML and advanced HW - it is possible to detect the type of waste source with high accuracy and also through the use of NLP (Text to Speech) we can educate the user as well on the type of waste they are disposing. 
+Due to the infusion of AI / ML and advanced HW - it is possible to detect the type of trash with high accuracy and also through the use of NLP (Text to Speech) we can educate the user as well on the type of waste they are disposing. 
 Through our research we found that no solution exits presently that is a combination of highly tech enabled yet highly affordable.
 
-Also thru advanced analytics and IoT platform based dashboard, government bodies can plan their trash picking schedule effectively thus enabling 'reduced carbon emissions'.
+Also through advanced analytics and IoT platform based dashboard, government bodies can plan their trash picking schedule effectively thus enabling 'reduced carbon emissions'.
 - Less trips to households to pick waste = less fuel being burned = reduced carbon emission ..yay :)
 
 ## Demo video
-[![Watch the video](./images/swachbin_Video_preview_image.jpg)](https://www.youtube.com/)
+[![Watch the video](./images/swachBin_YT_Thumbnail.jpg)](https://www.youtube.com/watch?v=iOUmLkzaIIg)
 
 ## Architecture Overview
 
@@ -110,9 +110,9 @@ Armed with above information, we went back to the drawing board; did further res
 ## Live Demo
 [IoT Realtime Dashboard Demo](http://169.51.206.185:31539/)
 ## Additional Video Demo links 
-[Real time testing by a Next Generation citizen](https://www.youtube.com/watch?v=YwTdrX-UwUI&t=2s)
-[A fun filled stop motion featurette](https://www.youtube.com/watch?v=bVE5bX-MVnE)
-[Features of SwachBIN](https://www.youtube.com/watch?v=XjuxM3jG6so&t=27s)
+- [Real time testing by a Next Generation citizen](https://www.youtube.com/watch?v=YwTdrX-UwUI&t=2s)
+- [A fun filled stop motion featurette](https://www.youtube.com/watch?v=bVE5bX-MVnE)
+- [Features of SwachBIN](https://www.youtube.com/watch?v=XjuxM3jG6so&t=27s)
 
 ## Team
 - [Bharathi Athinarayanan](https://github.com/rathisoft) - _Product owner & AI / ML architect_ 
