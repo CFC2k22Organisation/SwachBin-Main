@@ -16,9 +16,7 @@
 SwachBIN (inspired from Hindi - swach indicates cleanlines) - a smart AI powered trash bin that solves the waste / trash segregation menace at the source in a seamless way and at the same time accomplishes the task at ultra-low cost and by enabling sustainability.
 
 ### What's the problem?
-The business case behind this project is that there are many places where community workers manually sort through trash for recycling purposes, such as sorting recycling items from waste items at waste transfer stations before being shipped off. 
-
-Due to rapid urbanisation, the countries like India are facing massive waste management challenge. In India alone over 377 million urban people live in 7,935 towns and cities and generate 62 million tonnes of municipal solid waste per annum but only 43 million tonnes (MT) of the waste is collected, 11.9 MT is treated and 31 MT is dumped in landfill sites[(source)](https://www.downtoearth.org.in/blog/waste/india-s-challenges-in-waste-management-56753). Solid Waste Management (SWM) is one among the basic essential services provided by municipal authorities in the country to keep urban centres clean. However, muncipal bodies are increasingly getting overwhelmed and almost all municipal authorities deposit solid waste at a dumpyard within or outside the city haphazardly. 
+Due to rapid urbanisation, the countries like India are facing a massive waste management challenge. In India alone over 377 million urban people live in 7,935 towns and cities and generate 62 million tonnes of municipal solid waste per annum but only 43 million tonnes (MT) of the waste is collected, 11.9 MT is treated and 31 MT is dumped in landfill sites[(source)](https://www.downtoearth.org.in/blog/waste/india-s-challenges-in-waste-management-56753). Solid Waste Management (SWM) is one among the basic essential services provided by municipal authorities in the country to keep urban centres clean. However, muncipal bodies are increasingly getting overwhelmed and almost all municipal authorities deposit solid waste at a dumpyard within or outside the city haphazardly. 
 
 One of the key reasons being "segregation at source" is not happening properly. One might ask how about enforcing the law. For instance, in India, various legislations exists for regulating the manner of disposal and dealing with generated waste under the umbrella law of Environment Protection Act, 1986 (EPA) but still landfills are getting dumped with mixed waste a lot leading to pollution.
 
@@ -66,13 +64,15 @@ At first, we did a value proposition analysis and identified two types of users:
 2. Community worker - a person who picks the trash and transports it to the waste disposal center
 
 We interviewed both types of users and understood their "pains".
-**Major Pains**:
-- Citizen user: Finds it difficult to understand the types of waste hence many times they gets frustrated and put the trash in a bin that is not meant for a particular type of trash
-    ---Result: They often get penalised monetarily for not segrating the trash properly
-- Community worker: Gets overwhelemed by the trash getting mixed
--  --Result: Risk their health due to toxins getting created by mixed waste, mixed waste ends up in environment (like landfills, waterbodies etc) causing serious and irrevesible pollution.
 
-We went back to the drawing board; did research on what "gains" we can provide thru our solution and came up with the following vision: **SwachBIN** - an end to end open-source platform which when installed will provide the following "gains":
+**Major Pains**:
+- Citizen user: Finds it difficult to understand the types of waste hence many times they gets frustrated and put the trash in a bin that is not meant for a particular type of trash.
+- 
+    ---Result: They often get penalised monetarily for not segrating the trash properly
+- Community worker: Gets overwhelemed by the trash getting mixed.
+- ---Result: Risking their health due to toxins getting created by mixed waste; mixed waste ends up in environment (like landfills, waterbodies etc) causing serious and irrevesible pollution.
+
+Armed with above information, we went back to the drawing board; did further research on what "gains" we can provide through our solution and came up with the following vision: **SwachBIN** - an end to end open-source platform which when installed will provide the following "gains":
 
 **Major Gains**
 * Solve the problem of “segregation at source” in a seamless manner 
