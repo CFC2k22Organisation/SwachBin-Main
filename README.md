@@ -6,13 +6,14 @@
 1. [The Architecture](#architecture-overview)
 1. [Long Description](#long-description)
 1. [Project Roadmap](#project-roadmap)
+1.  [Live demo](#live-demo)
 1. [Addtional Video links](#Additional-video-demo-links)
 1. [Built With](#built-with)
 1. [The Team](#team)
 1. [License](#license)
 
 ## Short description 
-SwachBIN (inspired from Hindi - swach indicates cleanlines) - a smart AI powered trash bin that solves the waste / trash segregation menace at the source in a seamless way and at the same time accomplishes the task at ultra-low cost and by enabling sustainability.
+SwachBIN (inspired from Hindi - swach indicates cleanliness) - a smart AI powered trash bin that solves the waste / trash segregation menace at the source in a seamless way and at the same time accomplishes the task at ultra-low cost and by enabling sustainability.
 
 ### What's the problem?
 The business case behind this project is that there are many places where community workers manually sort through trash for recycling purposes, such as sorting recycling items from waste items at waste transfer stations before being shipped off. 
@@ -100,7 +101,8 @@ We went back to the drawing board; did research on what "gains" we can provide t
 
 ## Installation
 
-
+## Live Demo
+[IoT Realtime Dashboard Demo](http://169.51.206.185:31539/)
 ## Additional Video Demo links 
 
 
