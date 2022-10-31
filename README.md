@@ -6,7 +6,7 @@
 1. [The Architecture](#architecture-overview)
 1. [Long Description](#long-description)
 1. [Project Roadmap](#project-roadmap)
-1.  [Live demo](#live-demo)
+1. [Live demo](#live-demo)
 1. [Addtional Video links](#Additional-video-demo-links)
 1. [Built With](#built-with)
 1. [The Team](#team)
@@ -90,7 +90,6 @@ We went back to the drawing board; did research on what "gains" we can provide t
 3. IoT and SQL infused backend
 ## Project roadmap
 
-![Roadmap](./images/swachBin_Roadmap.jpg)
 
 ## Built with
 ![Techonology](./images/tech_logos.jpg)
