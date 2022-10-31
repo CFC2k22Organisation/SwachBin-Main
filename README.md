@@ -31,12 +31,7 @@ It automatically detect the waste as either recycle or non recycle trash and ope
 Through our solution, we can automate that process with this smart bin which will prove more efficient than current manual processes. There are currently no products like this in existence that we know of -- there are only standard automated recycling machines, which do not come equipped with an AI solution to classify what goes where, so we think it would be a valuable product to create in order to improve efficiency in our society's waste management system.
 
 Moreover it is affordable due to it's ultra low cost and when manufactured and deployed in enmasse the cost will further come down. 
-So our team came up with the following vision: SwachBin - an end to end open-source platform which when installed will:
-* Solve the problem of “segregation at source” in a seamless manner 
-* Educate the user about the type of waste they are disposing
-* Enables compliance with local / regional segregation rules and regulations
-* Ultra low cost yet sophisticated
-* Aligns with UN goal of sustainability 
+
 ### How can technology help?
 Due to the infusion of AI / ML and advanced HW - it is possible to detect the type of waste source with high accuracy and also through the use of NLP (Text to Speech) we can educate the user as well on the type of waste they are disposing. 
 Through our research we found that no solution exits presently that is a combination of highly tech enabled yet highly affordable.
@@ -61,13 +56,37 @@ Also thru advanced analytics and IoT platform based dashboard, government bodies
     8. The ultrasonic sensor senses the trash level and sends the information to the flask app to be displayed in the dashboard.
     9. All the information gets displayed in the IoT dashboard.
 ## Long description
+For the development of SwachBIN we followed a two pronged approach
+1. Design thinking based approach and 
+2. Technology Level Readiness (a development methodology popularised by NASA).
+##### Design Thinking in Play
+At first, we did a value proposition analysi and identified two types of users:
+1. Citizen User - a person who uses a trash bin at source (like household / shop / school etc)
+2. Community worker - a person who picks the trash and transports it to the waste disposal center
+
+We interviewed both types of users and understood their "pains".
+**Major Pains**:
+- Citizen user: Finds it difficult to understand the types of waste hence many times they gets frustrated and put the trash in a bin that is not meant for a particular type of trash
+--Result: They often get penalised monetarily for not segrating the trash properly
+- Community worker: Gets overwhelemed by the trash getting mixed
+--Result: Risk their health due to toxins getting created by mixed waste, mixed waste ends up in enviroment (like landfills, waterbodies etc) causing serious and irrevesible pollution.
+
+We went back to the drawing board; did research on what "gains" we can provide thru our solution and came up with the following vision: **SwachBIN** - an end to end open-source platform which when installed will provide the following "gains":
+
+**Major Gains**
+* Solve the problem of “segregation at source” in a seamless manner 
+* Educate the user about the type of waste they are disposing
+* Enables compliance with local / regional segregation rules and regulations
+* Ultra low cost yet sophisticated
+* Aligns with UN goal of sustainability 
+##### Technology Level Readiness based development
+
+
+## Features
 **Key Modules of swachBin:**
 1. Hardware based front end
 2. AI driven middle ware
 3. IoT and SQL infused backend
-
-## Features
-
 ## Project roadmap
 
 ![Roadmap](./images/swachBin_Roadmap.jpg)
@@ -93,3 +112,4 @@ Also thru advanced analytics and IoT platform based dashboard, government bodies
 
 ## License
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
+
