@@ -6,14 +6,14 @@
 1. [The Architecture](#architecture-overview)
 1. [Long Description](#long-description)
 1. [Project Roadmap](#project-roadmap)
-1. [Live demo](#live-demo)
+1.  [Live demo](#live-demo)
 1. [Addtional Video links](#Additional-video-demo-links)
 1. [Built With](#built-with)
 1. [The Team](#team)
 1. [License](#license)
 
 ## Short description 
-SwachBIN (inspired from Hindi - swach indicates cleanliness) - a smart AI powered trash bin that solves the waste / trash segregation menace at the source in a seamless way and at the same time accomplishes the task at ultra-low cost and by enabling sustainability.
+SwachBIN (inspired from Hindi - swach indicates cleanlines) - a smart AI powered trash bin that solves the waste / trash segregation menace at the source in a seamless way and at the same time accomplishes the task at ultra-low cost and by enabling sustainability.
 
 ### What's the problem?
 The business case behind this project is that there are many places where community workers manually sort through trash for recycling purposes, such as sorting recycling items from waste items at waste transfer stations before being shipped off. 
@@ -61,16 +61,16 @@ For the development of SwachBIN we followed a two pronged approach
 1. Design thinking based approach and 
 2. Technology Level Readiness (a development methodology popularised by NASA).
 ##### Design Thinking in Play
-At first, we did a value proposition analysi and identified two types of users:
+At first, we did a value proposition analysis and identified two types of users:
 1. Citizen User - a person who uses a trash bin at source (like household / shop / school etc)
 2. Community worker - a person who picks the trash and transports it to the waste disposal center
 
 We interviewed both types of users and understood their "pains".
 **Major Pains**:
 - Citizen user: Finds it difficult to understand the types of waste hence many times they gets frustrated and put the trash in a bin that is not meant for a particular type of trash
---Result: They often get penalised monetarily for not segrating the trash properly
+    ---Result: They often get penalised monetarily for not segrating the trash properly
 - Community worker: Gets overwhelemed by the trash getting mixed
---Result: Risk their health due to toxins getting created by mixed waste, mixed waste ends up in enviroment (like landfills, waterbodies etc) causing serious and irrevesible pollution.
+-  --Result: Risk their health due to toxins getting created by mixed waste, mixed waste ends up in environment (like landfills, waterbodies etc) causing serious and irrevesible pollution.
 
 We went back to the drawing board; did research on what "gains" we can provide thru our solution and came up with the following vision: **SwachBIN** - an end to end open-source platform which when installed will provide the following "gains":
 
@@ -89,21 +89,27 @@ We went back to the drawing board; did research on what "gains" we can provide t
 2. AI driven middle ware
 3. IoT and SQL infused backend
 ## Project roadmap
+
 ![Roadmap](./images/swachBin_Roadmap.jpg)
 
 ## Built with
 ![Techonology](./images/tech_logos.jpg)
 
-## Getting started
-
-
-
 ## Installation
+* PowerUp the builtin Raspberry Pi module by connecting it to a power socket
+* Connect the Raspberry Pi to a WiFi / Mobile Hotspot
+* Using the RaspController App login into the Pi and run the executable code
+
+## Getting started
+* Get a trash near to the SwachBIN camera and see it springing into action
+
 
 ## Live Demo
 [IoT Realtime Dashboard Demo](http://169.51.206.185:31539/)
 ## Additional Video Demo links 
-
+[Real time testing by a Next Generation citizen](https://www.youtube.com/watch?v=YwTdrX-UwUI&t=2s)
+[A fun filled stop motion featurette](https://www.youtube.com/watch?v=bVE5bX-MVnE)
+[Features of SwachBIN](https://www.youtube.com/watch?v=XjuxM3jG6so&t=27s)
 
 ## Team
 - [Bharathi Athinarayanan](https://github.com/rathisoft) - _Product owner & AI / ML architect_ 
