@@ -66,7 +66,7 @@ Also through advanced analytics and IoT platform based dashboard, government bod
 ## Long description
 For the development of SwachBIN we followed a two pronged approach:
 1. Finding out "The What" by using design thinking based approach and 
-2. Finding out "The How" by Technology Level Readiness (a development methodology popularised by NASA).
+2. Finding out "The How" by using Technology Level Readiness (a development methodology popularised by NASA).
 ### Design Thinking in Play:
 
 At first, we did a value proposition analysis and identified two types of users:
