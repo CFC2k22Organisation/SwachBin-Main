@@ -125,7 +125,7 @@ We planned our project based on these 'nine' levels wherein we have acheived all
 * Get a trash near to the SwachBIN camera and see it springing into action
 
 ## Live Demo
-[IoT Realtime Dashboard Demo](http://169.51.206.185:31539/)
+[Smartly IoT Realtime Dashboard Demo](http://169.51.206.185:31539/)
 ## Additional Video Demo links 
 - [Real time testing by a Next Generation citizen](https://www.youtube.com/watch?v=YwTdrX-UwUI&t=2s)
 - [A fun filled stop motion featurette](https://www.youtube.com/watch?v=bVE5bX-MVnE)
