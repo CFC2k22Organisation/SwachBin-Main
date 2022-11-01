@@ -58,10 +58,11 @@ Also through advanced analytics and IoT platform based dashboard, government bod
     8. The ultrasonic sensor senses the trash level and sends the information to the flask app to be displayed in the dashboard.
     9. All the information gets displayed in the IoT dashboard.
 ## Long description
-For the development of SwachBIN we followed a two pronged approach
-1. Design thinking based approach and 
-2. Technology Level Readiness (a development methodology popularised by NASA).
-##### Design Thinking in Play
+For the development of SwachBIN we followed a two pronged approach:
+1. Finding out "The What" by using design thinking based approach and 
+2. Finding out "The How" by Technology Level Readiness (a development methodology popularised by NASA).
+##### Design Thinking in Play:
+
 At first, we did a value proposition analysis and identified two types of users:
 1. Citizen User - a person who uses a trash bin at source (like household / shop / school etc)
 2. Community worker - a person who picks the trash and transports it to the waste disposal center
@@ -77,13 +78,16 @@ We interviewed both types of users and understood their "pains".
 
 Armed with above information, we went back to the drawing board; did further research on what "gains" we can provide through our solution and came up with the following vision: **SwachBIN** - an end to end open-source platform which when installed will provide the following "gains":
 
-**Major Gains**
+**Major Gains:**
 * Solve the problem of “segregation at source” in a seamless manner 
 * Educate the user about the type of waste they are disposing
 * Enables compliance with local / regional segregation rules and regulations
 * Ultra low cost yet sophisticated
 * Aligns with UN goal of sustainability 
-##### Technology Level Readiness based development
+##### Technology Level Readiness based development:
+Technology Readiness Levels (TRL) are a type of measurement system used to assess the maturity level of a particular technology project where in it is evaluated against the parameters for each technology level and is then assigned a TRL rating based on the projects progress. There are nine technology readiness levels. TRL 1 is the lowest and TRL 9 is the highest. [(source)](https://www.nasa.gov/directorates/heo/scan/engineering/technology/technology_readiness_level)
+
+![TRL](./images/trl.jpeg) Image Credit: NASA
 
 
 ## Features
