@@ -33,7 +33,7 @@ and open the trash can accordingly.
 
 It is equipped with Raspberry Pi and is connected to a camera that take a picture of the trash. With the help of state of the art AI and ML algorithms, the system predicts the trash and classifies the image accordingly, based on the result, an electrical signal is given to the servo motor to rotate which in turn opens the trashcan lid either to left or right depending on the results of recyclable or non recyclable.
 
-Through our solution, we are automating the segregation process which is more efficient than the manual processes. Per our research, currently there exists no products like this in existence that we know of -- there are only standard automated recycling machines, which do not come equipped with an AI solution to classify what goes where, so we think it would be a valuable product to create in order to improve efficiency in our society's waste management system.
+Through our solution, we are automating the segregation process which is more efficient than the manual processes. As Per our research, currently there exists no products like this in existence that we know of -- there are only standard automated recycling machines, which do not come equipped with an AI solution to classify what goes where, so we think it would be a valuable product to create in order to improve efficiency in our society's waste management system.
 
 Once the waste is segregated within the bin, the level of trash is being monitored in real time by an ultrasonic sensor. Once the 'set' threshold reaches, the ultrasonic sensor will notify the municipal corporation so that they can plan a visit to pick the trash.
 This way, we are reducing the carbon emissions to a greater extent and promoting *sustainability*
