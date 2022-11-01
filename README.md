@@ -92,12 +92,20 @@ Technology Readiness Levels (TRL) are a type of measurement system used to asses
 
 We planned our project based on these 'nine' levels wherein we have acheived all the nine levels and are ready to move ahead with full fledged product launch. One can see how the development shaped up by going through our project development phase by looking into ["Development Memories"](https://github.com/CFC2k22Organisation/SwachBin-Main/tree/main/Development%20Memories)
 ## Features
+1. All in one bin (can collect and segregate five types of trash)
+2. IoT dashboard helps in reducing carbon emissions by helping the municipal body to plan trips to households on need basis
+3. Ultra low cost (the HW components are easily available in market and at low cost and when produced enmasse the cost will futher come down)
+4. Highly portable
+5. Educates the user by explaining the type of trash they disposed by using Text-To-Speech
+6. Uses state of the art tech - AI, computer vision, IoT to name a few
+7. Uses 'responsible' & 'ethical' AI practices by maintaining transparency and accountability throughout
+
 **Key Modules of swachBin:**
 1. Hardware based front end
 2. AI driven middle ware
 3. IoT and SQL infused backend
-## Project roadmap
 
+## Project roadmap
 ![Roadmap](./images/swachBin_Roadmap.jpg)
 
 ## Built with
@@ -106,11 +114,10 @@ We planned our project based on these 'nine' levels wherein we have acheived all
 ## Installation
 * PowerUp the builtin Raspberry Pi module by connecting it to a power socket
 * Connect the Raspberry Pi to a WiFi / Mobile Hotspot
-* Using the RaspController App login into the Pi and run the executable code
 
 ## Getting started
+* Using the RaspController App / vnc viewer software (or similar) login into the Pi and run the executable code
 * Get a trash near to the SwachBIN camera and see it springing into action
-
 
 ## Live Demo
 [IoT Realtime Dashboard Demo](http://169.51.206.185:31539/)
@@ -129,4 +136,4 @@ We planned our project based on these 'nine' levels wherein we have acheived all
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-We partnered with [BBMP(Bruhat Bengaluru Mahanagara Palike)](https://site.bbmp.gov.in/indexenglish.html), Bengaluru's municipal governing body. BBMP helped us in identifying the types of trash that the citizens need to segregate and using their [inputs](https://site.bbmp.gov.in/documents/waste-notice.pdf) we created our own 'real' dataset.
+We partnered with [BBMP(Bruhat Bengaluru Mahanagara Palike)](https://site.bbmp.gov.in/indexenglish.html), Bengaluru's municipal governing body. BBMP helped us in identifying the types of trash that the citizens need to segregate and using their [inputs](https://site.bbmp.gov.in/documents/waste-notice.pdf) we created our own 'real' dataset. 
