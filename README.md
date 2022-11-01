@@ -87,9 +87,11 @@ Armed with above information, we went back to the drawing board; did further res
 ##### Technology Level Readiness based development:
 Technology Readiness Levels (TRL) are a type of measurement system used to assess the maturity level of a particular technology project where in it is evaluated against the parameters for each technology level and is then assigned a TRL rating based on the projects progress. There are nine technology readiness levels. TRL 1 is the lowest and TRL 9 is the highest. [(source)](https://www.nasa.gov/directorates/heo/scan/engineering/technology/technology_readiness_level)
 
-![TRL](./images/trl.jpg) Image Credit: NASA
+![TRL](./images/trl.jpg) <div align="right"> Image Credit: NASA </div>
 
+We planned our project based on these Nine levels and have all the Nine levels and are ready to move ahead with full fledged product launch.
 
+TRL 1: 
 ## Features
 **Key Modules of swachBin:**
 1. Hardware based front end
