@@ -101,7 +101,7 @@ We planned our project based on these 'nine' levels wherein we have acheived all
 2. IoT dashboard helps in reducing carbon emissions by helping the municipal body to plan trips to households on need basis
 3. Ultra low cost (the HW components are easily available in market and at low cost and when produced enmasse the cost will futher come down)
 4. Highly portable
-5. Educates the user by explaining the type of trash they disposed by using Text-To-Speech
+5. Educates the user by explaining the type of trash they disposed by using Text-To-Speech (In Future, we have planned to provide real time regional langugage translation as well)
 6. Uses state of the art tech - AI, computer vision, IoT to name a few
 7. Uses 'responsible' & 'ethical' AI practices by maintaining transparency and accountability throughout
 
