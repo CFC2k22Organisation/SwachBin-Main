@@ -6,11 +6,12 @@
 1. [The Architecture](#architecture-overview)
 1. [Long Description](#long-description)
 1. [Project Roadmap](#project-roadmap)
-1.  [Live demo](#live-demo)
+1. [Live demo](#live-demo)
 1. [Addtional Video links](#Additional-video-demo-links)
 1. [Built With](#built-with)
 1. [The Team](#team)
 1. [License](#license)
+1. [Acknowledgments](#acknowledgments)
 
 ## Short description 
 SwachBIN (inspired from Hindi - swach indicates cleanliness) - a smart AI powered trash bin that solves the waste / trash segregation menace at the source in a seamless way and at the same time accomplishes the task at ultra-low cost and by enabling sustainability.
@@ -89,9 +90,7 @@ Technology Readiness Levels (TRL) are a type of measurement system used to asses
 
 ![TRL](./images/trl.jpg) <div align="right"> Image Credit: NASA </div>
 
-We planned our project based on these 'nine' levels wherein we have acheived all the nine levels and are ready to move ahead with full fledged product launch. One can see how the development shaped up by going through our project development phase by looking into ["Development Memories"](https://github.com/CFC2k22Organisation/SwachBin-Main/tree/main/Development%20Memories).
-
-TRL 1: Scientific research is beginning and those results are being translated into future research and development
+We planned our project based on these 'nine' levels wherein we have acheived all the nine levels and are ready to move ahead with full fledged product launch. One can see how the development shaped up by going through our project development phase by looking into ["Development Memories"](https://github.com/CFC2k22Organisation/SwachBin-Main/tree/main/Development%20Memories)
 ## Features
 **Key Modules of swachBin:**
 1. Hardware based front end
@@ -129,3 +128,5 @@ TRL 1: Scientific research is beginning and those results are being translated i
 ## License
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
+## Acknowledgments
+We partnered with [BBMP(Bruhat Bengaluru Mahanagara Palike)](https://site.bbmp.gov.in/indexenglish.html), Bengaluru's municipal governing body. BBMP helped us in identifying the types of trash that the citizens need to segregate and using their [inputs](https://site.bbmp.gov.in/documents/waste-notice.pdf) we created our own 'real' dataset.
