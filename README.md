@@ -89,7 +89,7 @@ Technology Readiness Levels (TRL) are a type of measurement system used to asses
 
 ![TRL](./images/trl.jpg) <div align="right"> Image Credit: NASA </div>
 
-We planned our project based on these 'nine' levels wherein we have acheived all the nine levels and are ready to move ahead with full fledged product launch. One can see how the development shaped up by going through our project development phase by looking into !["Development Memories"](./Development Memories/)
+We planned our project based on these 'nine' levels wherein we have acheived all the nine levels and are ready to move ahead with full fledged product launch. One can see how the development shaped up by going through our project development phase by looking into !["Development Memories"](./Development Memories)
 
 TRL 1: Scientific research is beginning and those results are being translated into future research and development
 ## Features
