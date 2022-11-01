@@ -25,8 +25,13 @@ No matter how strict the laws are there until unless the citizens across the soc
 
 In simple words, the problem that we have in our hand is - "Not able to segregate waste at source" 
 ### The idea
-The idea is to build a smart trash bin which identifies and detect the trash and perform classification based on AI algorithm.
-The bin will automatically detect the trash as either recycle or non recycle trash and open the trash can accordingly. It is equipped with Raspberry PI and is connected to a camera that take a picture of the trash. With the help of state of the art AI and ML algorithms, the system predicts the trash and classifies the image accordingly, based on the result, an electrical signal is given to the servo motor to rotate which in turn opens the trashcan lid either to left or right depending on the results of recyclable or non recyclable.
+The idea is to build a smart trash bin which identifies and detect the trash and perform classification based on AI algorithm. The bin will automatically detect the trash as:
+- Recycle (wet and dry) or
+- Non recycle trash  (Hazardous, Sanitary, Construction and Debris)
+
+and open the trash can accordingly. 
+
+It is equipped with Raspberry Pi and is connected to a camera that take a picture of the trash. With the help of state of the art AI and ML algorithms, the system predicts the trash and classifies the image accordingly, based on the result, an electrical signal is given to the servo motor to rotate which in turn opens the trashcan lid either to left or right depending on the results of recyclable or non recyclable.
 
 Through our solution, we are automating the segregation process which is more efficient than the manual processes. Per our research, currently there exists no products like this in existence that we know of -- there are only standard automated recycling machines, which do not come equipped with an AI solution to classify what goes where, so we think it would be a valuable product to create in order to improve efficiency in our society's waste management system.
 
@@ -73,7 +78,7 @@ We interviewed both types of users and understood their "pains".
 **Major Pains**:
 - Citizen user: Finds it difficult to understand the types of waste hence many times they gets frustrated and put the trash in a bin that is not meant for a particular type of trash.
 - 
-    ---Result: They often get penalised monetarily for not segrating the trash properly
+    ---Result: They often get penalised monetarily for not segregating the trash properly
 - Community worker: Gets overwhelemed by the trash getting mixed.
 - ---Result: Risking their health due to toxins getting created by mixed waste; mixed waste ends up in environment (like landfills, waterbodies etc) causing serious and irrevesible pollution.
 
