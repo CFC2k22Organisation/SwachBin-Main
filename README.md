@@ -62,7 +62,7 @@ Also through advanced analytics and IoT platform based dashboard, government bod
 For the development of SwachBIN we followed a two pronged approach:
 1. Finding out "The What" by using design thinking based approach and 
 2. Finding out "The How" by Technology Level Readiness (a development methodology popularised by NASA).
-##### Design Thinking in Play:
+### Design Thinking in Play:
 
 At first, we did a value proposition analysis and identified two types of users:
 1. Citizen User - a person who uses a trash bin at source (like household / shop / school etc)
@@ -85,7 +85,7 @@ Armed with above information, we went back to the drawing board; did further res
 * Enables compliance with local / regional segregation rules and regulations
 * Ultra low cost yet sophisticated
 * Aligns with UN goal of sustainability 
-##### Technology Level Readiness based development:
+### Technology Level Readiness based development:
 Technology Readiness Levels (TRL) are a type of measurement system used to assess the maturity level of a particular technology project where in it is evaluated against the parameters for each technology level and is then assigned a TRL rating based on the projects progress. There are nine technology readiness levels. TRL 1 is the lowest and TRL 9 is the highest. [(source)](https://www.nasa.gov/directorates/heo/scan/engineering/technology/technology_readiness_level)
 
 ![TRL](./images/trl.jpg) <div align="right"> Image Credit: NASA </div>
@@ -137,3 +137,4 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ## Acknowledgments
 We partnered with [BBMP(Bruhat Bengaluru Mahanagara Palike)](https://site.bbmp.gov.in/indexenglish.html), Bengaluru's municipal governing body. BBMP helped us in identifying the types of trash that the citizens need to segregate and using their [inputs](https://site.bbmp.gov.in/documents/waste-notice.pdf) we created our own 'real' dataset. 
+
